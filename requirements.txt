@@ -1,0 +1,10 @@
+# Python 3.10 (recorded historical environment)
+# Numeric version from recorded audit: numpy==1.26.4
+numpy==1.26.4
+pandas
+scipy
+scikit-learn
+matplotlib
+joblib
+psutil
+pyarrow
